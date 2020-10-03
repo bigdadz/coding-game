@@ -1,3 +1,4 @@
+# https://www.codingame.com/training/easy/7-segment-scanner
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
